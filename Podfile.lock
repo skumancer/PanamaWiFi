@@ -1,0 +1,19 @@
+PODS:
+  - ArcGIS-Runtime-SDK-iOS (10.2.4)
+  - PureLayout (2.0.5)
+  - SVProgressHUD (1.1.3)
+  - VGParallaxHeader (0.0.6):
+    - PureLayout
+
+DEPENDENCIES:
+  - ArcGIS-Runtime-SDK-iOS
+  - SVProgressHUD (~> 1.1)
+  - VGParallaxHeader
+
+SPEC CHECKSUMS:
+  ArcGIS-Runtime-SDK-iOS: 72a0bb049c2a151c8a23f46762db08266957006e
+  PureLayout: a0fe75f1cf485801e7e00b723b8a3c32dca558e2
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+  VGParallaxHeader: 1213aba58c9b0aea84f9e81ad526fde57aa4fe48
+
+COCOAPODS: 0.35.0
